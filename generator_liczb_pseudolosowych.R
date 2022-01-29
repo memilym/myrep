@@ -1,5 +1,3 @@
-#Emilia Murawiejko 176494
-#PROJEKT 2
 #Implementacja generatora liczb pseudolosowych z zadanych rozkladow
 
 #Generator liczb pseudolosowych pochodzacych z rozkladu jednostajnego [0,1].
